@@ -1,0 +1,1024 @@
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.pdb
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.WizardShared.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Base.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.FrameworkDataComposer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaEntities.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DataController.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.Core.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaDataController.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.XmlMetaDataHelper.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.GenerationDataManipulator.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorShared.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceEntities.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.OfficeInterop.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Dragablz.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Newlook.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OfficeInterop.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Encryption.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ShellIcons.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMViewModel.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForDB2.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForMSSQL.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForzOSDB2.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForXHarvest.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.StorageServerClient.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AxInterop.NLLib.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaConnection.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalServiceContract.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDAL.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForLANSA.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalForSQL.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceBP.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OSS.Jxl.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.WebDAVClient.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Interop.NLLib.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForSQL.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaServiceAgents.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Initialization.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceDALsForSQL.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Caching.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ActiveDirectory.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.PasswordSecurity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceBusinessProcess.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataAccessLayer.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataEntity.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataMaps.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Dragablz.xml
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-cn\A4DN.Core.WPF.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-cn\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.pdb
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.BOS.Base.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\BOS.AcceleratorShared.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\BOS.AcceleratorShared.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\BOS.AcceleratorShared.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\BOS.AcceleratorShared.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\BOS.AcceleratorShared.resources.dll
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll.config
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll.config
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll.config
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll.config
+C:\Users\Derek Maciak\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csprojResolveAssemblyReference.cache
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaEntities.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.WizardShared.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Base.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.FrameworkDataComposer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DataController.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.Core.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaDataController.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.XmlMetaDataHelper.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.GenerationDataManipulator.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorShared.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceEntities.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.OfficeInterop.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Dragablz.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Newlook.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OfficeInterop.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Encryption.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ShellIcons.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMViewModel.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForDB2.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForMSSQL.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForzOSDB2.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForXHarvest.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.StorageServerClient.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AxInterop.NLLib.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaConnection.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalServiceContract.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDAL.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForLANSA.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalForSQL.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceBP.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OSS.Jxl.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.WebDAVClient.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Interop.NLLib.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForSQL.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaServiceAgents.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Initialization.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceDALsForSQL.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Caching.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ActiveDirectory.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.PasswordSecurity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceBusinessProcess.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataAccessLayer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataEntity.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataMaps.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll.config
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll.config
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Dragablz.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll.config
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll.config
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.CoreCompileInputs.cache
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DocumentManagement.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfiumViewer.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zxing.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\itextsharp.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfSharp.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfiumViewer.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zxing.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfSharp.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.SharedResources.dll
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Base.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Base.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkEntity.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkEntity.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorShared.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceEntities.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ViewModel.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ViewModel.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.OfficeInterop.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.OfficeInterop.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DocumentManagement.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DocumentManagement.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Newlook.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Newlook.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceViewModel.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OfficeInterop.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OfficeInterop.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Encryption.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Encryption.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.SharedResources.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ShellIcons.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ShellIcons.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.StorageServerClient.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.StorageServerClient.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\itextsharp.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceBP.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaConnection.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaConnection.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalServiceContract.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalServiceContract.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDAL.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDAL.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForLANSA.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForLANSA.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalForSQL.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalForSQL.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OSS.Jxl.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OSS.Jxl.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.WebDAVClient.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.WebDAVClient.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceDALsForSQL.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForSQL.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForSQL.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaServiceAgents.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaServiceAgents.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Initialization.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Initialization.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Caching.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Caching.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ActiveDirectory.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ActiveDirectory.xml
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.PasswordSecurity.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataAccessLayer.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataEntity.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataMaps.pdb
+C:\Users\derek\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csprojResolveAssemblyReference.cache
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.pdb
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaEntities.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.WizardShared.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Base.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.FrameworkDataComposer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DataController.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.Core.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaDataController.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.XmlMetaDataHelper.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.GenerationDataManipulator.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorShared.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceEntities.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OfficeInterop.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Dragablz.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DocumentManagement.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Newlook.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Encryption.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ShellIcons.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMViewModel.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForDB2.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForMSSQL.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForzOSDB2.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForXHarvest.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfiumViewer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\MsgReader.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.StorageServerClient.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OSS.Jxl.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfSharp.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.Imaging.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.QRCodeEncoderDecoderLibrary.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zxing.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AxInterop.NLLib.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceBP.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaConnection.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalServiceContract.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDAL.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForLANSA.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalForSQL.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Converter.Html.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Interpreter.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.WebDAVClient.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.Math.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Interop.NLLib.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceDALsForSQL.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForSQL.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaServiceAgents.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Initialization.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Caching.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ActiveDirectory.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.PasswordSecurity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceBusinessProcess.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Itenso.Sys.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Parser.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataAccessLayer.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataEntity.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataMaps.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Dragablz.xml
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMViewModel.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfiumViewer.xml
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfSharp.xml
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.Imaging.xml
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zxing.xml
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesBusinessProcess.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceBusinessProcess.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerBusinessProcess.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsBusinessProcess.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsBusinessProcess.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.xml
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.Math.xml
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentBusinessProcess.dll.config
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.BOS.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.WPF.Base.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\BOS.AcceleratorShared.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.CoreCompileInputs.cache
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.CopyComplete
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.dll
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.pdb
+C:\Users\derek\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csprojAssemblyReference.cache
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.pdb
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.FrameworkDataComposer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DataController.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.Core.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaDataController.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.XmlMetaDataHelper.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.GenerationDataManipulator.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorShared.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceEntities.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OfficeInterop.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Dragablz.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DocumentManagement.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Newlook.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Encryption.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ShellIcons.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMViewModel.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForDB2.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForMSSQL.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForzOSDB2.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForXHarvest.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfiumViewer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\MsgReader.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.StorageServerClient.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OSS.Jxl.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfSharp.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.QRCodeEncoderDecoderLibrary.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zxing.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.Imaging.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AxInterop.NLLib.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaConnection.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalServiceContract.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDAL.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForLANSA.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalForSQL.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceBP.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Converter.Html.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Interpreter.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.WebDAVClient.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.Math.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Interop.NLLib.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForSQL.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaServiceAgents.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Initialization.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceDALsForSQL.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Caching.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ActiveDirectory.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.PasswordSecurity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceBusinessProcess.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Itenso.Sys.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Parser.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataEntity.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataMaps.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\Dragablz.xml
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleMViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SystemMViewModel.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfiumViewer.xml
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\PdfSharp.xml
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zxing.xml
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.Imaging.xml
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewsBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.xml
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\AForge.Math.xml
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-cn\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-cn\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-cn\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-cn\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\zh-cn\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.AssemblyReference.cache
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.CoreCompileInputs.cache
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.CopyComplete
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.dll
+C:\Users\gardi\OneDrive\Documents\Accelerator for .NET\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.pdb
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.pdb
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaEntities.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.WizardShared.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Base.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.FrameworkDataComposer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.AB_SchemaBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DataController.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.Core.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaDataController.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.XmlMetaDataHelper.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.Generator.GenerationDataManipulator.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorShared.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceEntities.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Caching.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OfficeInterop.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Dragablz.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DocumentManagement.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Newlook.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Encryption.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ShellIcons.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleMViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewsViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemMViewModel.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForDB2.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForMSSQL.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForzOSDB2.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.CF.SchemaReaderForXHarvest.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\PdfiumViewer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\MsgReader.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.StorageServerClient.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.OSS.Jxl.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\PdfSharp.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.QRCodeEncoderDecoderLibrary.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\zxing.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\AForge.Imaging.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\AxInterop.NLLib.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaConnection.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalServiceContract.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDAL.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForLANSA.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkDalForSQL.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceBP.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleMBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewsBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemMBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\IBM.Data.DB2.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Converter.Html.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Interpreter.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.WebDAVClient.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\AForge.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\AForge.Math.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Interop.NLLib.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.DALBaseForSQL.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.LansaServiceAgents.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.Initialization.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AcceleratorMaintenanceDALsForSQL.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.ActiveDirectory.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.PasswordSecurity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceBusinessProcess.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Itenso.Sys.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Itenso.Rtf.Parser.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.InitSettingDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemAppModDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleMDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewsDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemMDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.EnvironmentSettingsDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemApplicationDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssemblyExtensionDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.NetAssemblyExtDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleWindowsExtDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.CommandExtensionDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ExcludeSystemReferenceDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.RemarkDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataAccessLayer.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataEntity.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.RemarkNotesDataMaps.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Base.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.Controls.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Dragablz.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.WPF.LogonBase.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\A4DN.Core.BOS.FrameworkBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ApplicationMViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleMViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.AssignmentRefViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewsViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SystemMViewModel.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\PdfiumViewer.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\PdfSharp.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\zxing.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\AForge.Imaging.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewReferencesBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.SBInterfaceBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ModuleExplorerBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewsBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.ViewColumnsBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\AForge.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\AForge.Math.xml
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\BOS.StaticWebContentBusinessProcess.dll.config
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.BOS.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.WPF.Base.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.BOS.DataController.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\es-ES\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-CA\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-FR\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\ja-JP\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\pt-BR\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\zh-CN\BOS.AcceleratorShared.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\es-ES\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-CA\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\fr-FR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\ja-JP\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\pt-BR\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\zh-CN\A4DN.Core.WPF.LogonBase.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.AssemblyReference.cache
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.CoreCompileInputs.cache
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.csproj.CopyComplete
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.dll
+C:\Users\gardi\OneDrive\Desktop\GenerationWizardPlugin\obj\Debug\GenerationWizardPlugin.pdb
