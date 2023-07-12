@@ -1,4 +1,4 @@
--- =============================================================================
+﻿-- =============================================================================
 -- CONFIDENTIAL AND PROPRIETARY INFORMATION
 --
 -- The receipt or possession of this document does not convey any rights to
@@ -21,7 +21,7 @@
 -- Description ..: Customer
 --
 -- BUILD COMMAND.:
--- RUNSQLSTM SRCFILE(EASYBUYSQL/QDBSRC) SRCMBR("Customer")
+-- RUNSQLSTM SRCFILE(EASYBUYDM2/QDBSRC) SRCMBR("Customer")
 --     COMMIT(*NONE) ERRLVL(20)
 --
 -- =============================================================================
@@ -33,7 +33,8 @@
 --
 -- =============================================================================
 
-SET SCHEMA "EasyBuyCyclesSQL";
+SET SCHEMA "EasyBuyCyclesTransformed";
+-- SET SCHEMA "EasyBuyCyclesTransformedDev";
 
 -- ALTER TABLE "Customer"
 --    DROP CONSTRAINT "PK_Customer",

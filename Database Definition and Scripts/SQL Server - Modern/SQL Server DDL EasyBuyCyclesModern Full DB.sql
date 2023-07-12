@@ -57,7 +57,7 @@ CREATE TABLE "dbo"."Customer"
      "Telephone"             NVARCHAR(20),
      "Email"                 NVARCHAR(50),
      "Memo"                  NVARCHAR(100),
-     "PurchasePoints"        NUMERIC(8,0),
+     "PurchasePoints"        NUMERIC(8,0) DEFAULT 0,
      "CreatedAt"             DATETIME2 DEFAULT GETDATE(),
      "CreatedBy"             NVARCHAR(128) DEFAULT SYSTEM_USER,
      "CreatedWith"           NVARCHAR(128) DEFAULT APP_NAME(),
@@ -320,7 +320,7 @@ GO
 CREATE TABLE "dbo"."ShippingAddress"
     (
      "InternalID"            INT IDENTITY(5000,1) NOT NULL,
-     "CustomerInternalID"    INT,
+     "CustomerInternalID"    INT NOT NULL,
      "Name"                  NVARCHAR(50) NOT NULL,
      "ContactLastName"       NVARCHAR(50),
      "ContactFirstName"      NVARCHAR(50),
@@ -579,7 +579,7 @@ CREATE TABLE "dbo"."Product"
      "MinimumReorderQuantity" NUMERIC(4,0),
      "Discontinued"          BIT,
      "Memo"                  NVARCHAR(100),
-     "ImagePath"             CHAR(256),
+     "ImagePath"             NVARCHAR(256),
      "CreatedAt"             DATETIME2 DEFAULT GETDATE(),
      "CreatedBy"             NVARCHAR(128) DEFAULT SYSTEM_USER,
      "CreatedWith"           NVARCHAR(128) DEFAULT APP_NAME(),
