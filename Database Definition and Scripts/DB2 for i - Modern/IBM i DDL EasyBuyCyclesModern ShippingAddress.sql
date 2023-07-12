@@ -136,9 +136,9 @@ LABEL ON COLUMN "ShippingAddress" (
      "Memo"                 TEXT IS 'Memo',
      "PurchasePoints"       TEXT IS 'Purchase Points',
 
-     "CreatedAt"            TEXT IS 'Create At',
-     "CreatedBy"            TEXT IS 'Create By',
-     "CreatedWith"          TEXT IS 'Create With',
+     "CreatedAt"            TEXT IS 'Created At',
+     "CreatedBy"            TEXT IS 'Created By',
+     "CreatedWith"          TEXT IS 'Created With',
      "LastModifiedAt"       TEXT IS 'Modified At',
      "LastModifiedBy"       TEXT IS 'Modified By',
      "LastModifiedWith"     TEXT IS 'Modified With'
@@ -164,9 +164,9 @@ LABEL ON COLUMN "ShippingAddress" (
      "Memo"                 IS 'Memo',
      "PurchasePoints"       IS 'Purchase Points',
 
-     "CreatedAt"            IS 'Create At',
-     "CreatedBy"            IS 'Create By',
-     "CreatedWith"          IS 'Create With',
+     "CreatedAt"            IS 'Created At',
+     "CreatedBy"            IS 'Created By',
+     "CreatedWith"          IS 'Created With',
      "LastModifiedAt"       IS 'Modified At',
      "LastModifiedBy"       IS 'Modified By',
      "LastModifiedWith"     IS 'Modified With'
