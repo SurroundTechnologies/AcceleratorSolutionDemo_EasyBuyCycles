@@ -27,13 +27,13 @@
 --
 -- =============================================================================
 
-USE "EasyBuyCycles";
+IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'EasyBuyDev')
+  BEGIN
+    CREATE DATABASE [EasyBuyDev]
+  END
+GO
 
---DROP TABLE "dbo"."OrderItem";
---DROP TABLE "dbo"."Order";
---DROP TABLE "dbo"."Product";
---DROP TABLE "dbo"."ShippingAddress";
---DROP TABLE "dbo"."Customer";
+USE "EasyBuyDev";
 
 -- =============================================================================
 -- Customer Table
@@ -849,20 +849,8 @@ EXEC sys.sp_addextendedproperty
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
 	@level1type=N'TABLE',    @level1name=N'Order',
-	@level2type=N'COLUMN',   @level2name=N'',
-    @name=N'MS_Description', @value=N'';
-
-EXEC sys.sp_addextendedproperty
-	@level0type=N'SCHEMA',   @level0name=N'dbo',
-	@level1type=N'TABLE',    @level1name=N'Order',
-	@level2type=N'COLUMN',   @level2name=N'OrderDate',
-    @name=N'MS_Description', @value=N'Order Date';
-
-EXEC sys.sp_addextendedproperty
-	@level0type=N'SCHEMA',   @level0name=N'dbo',
-	@level1type=N'TABLE',    @level1name=N'Order',
-	@level2type=N'COLUMN',   @level2name=N'OrderTime',
-    @name=N'MS_Description', @value=N'Order Time';
+	@level2type=N'COLUMN',   @level2name=N'OrderDateTime',
+    @name=N'MS_Description', @value=N'Order Date and Time';
 
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
@@ -879,7 +867,7 @@ EXEC sys.sp_addextendedproperty
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
 	@level1type=N'TABLE',    @level1name=N'Order',
-	@level2type=N'COLUMN',   @level2name=N'Warehouse Name',
+	@level2type=N'COLUMN',   @level2name=N'WarehouseName',
     @name=N'MS_Description', @value=N'Warehouse Name';
 
 EXEC sys.sp_addextendedproperty
@@ -926,37 +914,37 @@ EXEC sys.sp_addextendedproperty
 
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
-	@level1type=N'TABLE',    @level1name=N'Product',
+	@level1type=N'TABLE',    @level1name=N'Order',
 	@level2type=N'COLUMN',   @level2name=N'CreatedAt',
     @name=N'MS_Description', @value=N'Created At';
 
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
-	@level1type=N'TABLE',    @level1name=N'Product',
+	@level1type=N'TABLE',    @level1name=N'Order',
 	@level2type=N'COLUMN',   @level2name=N'CreatedBy',
     @name=N'MS_Description', @value=N'Created By';
 
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
-	@level1type=N'TABLE',    @level1name=N'Product',
+	@level1type=N'TABLE',    @level1name=N'Order',
 	@level2type=N'COLUMN',   @level2name=N'CreatedWith',
     @name=N'MS_Description', @value=N'Created With';
 
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
-	@level1type=N'TABLE',    @level1name=N'Product',
+	@level1type=N'TABLE',    @level1name=N'Order',
 	@level2type=N'COLUMN',   @level2name=N'LastModifiedAt',
     @name=N'MS_Description', @value=N'Last Modified At';
 
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
-	@level1type=N'TABLE',    @level1name=N'Product',
+	@level1type=N'TABLE',    @level1name=N'Order',
 	@level2type=N'COLUMN',   @level2name=N'LastModifiedBy',
     @name=N'MS_Description', @value=N'Last Modified By';
 
 EXEC sys.sp_addextendedproperty
 	@level0type=N'SCHEMA',   @level0name=N'dbo',
-	@level1type=N'TABLE',    @level1name=N'Product',
+	@level1type=N'TABLE',    @level1name=N'Order',
 	@level2type=N'COLUMN',   @level2name=N'LastModifiedWith',
     @name=N'MS_Description', @value=N'Last Modified With';
 GO
