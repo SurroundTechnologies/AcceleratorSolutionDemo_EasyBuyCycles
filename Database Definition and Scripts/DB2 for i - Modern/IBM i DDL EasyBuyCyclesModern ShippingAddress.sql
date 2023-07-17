@@ -194,7 +194,7 @@ CREATE INDEX "IX_ShippingAddress_PostalCode_Name"
    "PostalCode", "Name"
    );
 LABEL ON INDEX "IX_ShippingAddress_PostalCode_Name"
-   IS 'Postal Code';
+   IS 'Postal Code, Name';
 
 CREATE INDEX "IX_ShippingAddress_ContactLastName_ContactFirstName_Name"
    FOR SYSTEM NAME "YD1SIX3"
@@ -202,7 +202,7 @@ CREATE INDEX "IX_ShippingAddress_ContactLastName_ContactFirstName_Name"
    "ContactLastName", "ContactFirstName", "Name"
    );
 LABEL ON INDEX "IX_ShippingAddress_ContactLastName_ContactFirstName_Name"
-   IS 'Last and First Name';
+   IS 'Contact Last and First Name, Name';
 
 CREATE INDEX "IX_ShippingAddress_Telephone_Name"
    FOR SYSTEM NAME "YD1SIX4"
@@ -210,7 +210,7 @@ CREATE INDEX "IX_ShippingAddress_Telephone_Name"
    "Telephone", "Name"
    );
 LABEL ON INDEX "IX_ShippingAddress_Telephone_Name"
-   IS 'Telephone';
+   IS 'Telephone, Name';
 
 CREATE INDEX "IX_ShippingAddress_Email_Name"
    FOR SYSTEM NAME "YD1SIX5"
@@ -218,7 +218,7 @@ CREATE INDEX "IX_ShippingAddress_Email_Name"
    "Email", "Name"
    );
 LABEL ON INDEX "IX_ShippingAddress_Email_Name"
-   IS 'Email';
+   IS 'Email, Name';
 
 CREATE INDEX "IX_ShippingAddress_CustomerInternalID_Name"
    FOR SYSTEM NAME "YD1SIX6"
@@ -226,7 +226,7 @@ CREATE INDEX "IX_ShippingAddress_CustomerInternalID_Name"
    "CustomerInternalID", "Name"
    );
 LABEL ON INDEX "IX_ShippingAddress_CustomerInternalID_Name"
-   IS 'Customer ID';
+   IS 'Customer ID, Name';
 
 -- Views
 -- CREATE OR REPLACE VIEW "VW_AccountTable_<Descriptors>"

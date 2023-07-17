@@ -60,10 +60,8 @@ SET SCHEMA "EasyBuyCycles";
 --    DROP CONSTRAINT "FK_OrderItem_{ReferenceTable}";
 
 -- DROP INDEX IF EXISTS "UQ_OrderItem_{IndexDescriptor}";
-DROP INDEX IF EXISTS
-   "IX_OrderItem_OrderInternalID_ProductInternalID_InternalID";
-DROP INDEX IF EXISTS
-   "IX_OrderItem_ProductInternalID_OrderInternalID_InternalID";
+DROP INDEX IF EXISTS "IX_OrderItem_OrderInternalID_ProductInternalID_InternalID";
+DROP INDEX IF EXISTS "IX_OrderItem_ProductInternalID_OrderInternalID_InternalID";
 DROP INDEX IF EXISTS "IX_OrderItem_OrderInternalID_InternalID";
 
 -- DROP VIEW IF EXISTS "VW_{ViewName}_{ViewDescriptor}";
@@ -80,7 +78,7 @@ CREATE OR REPLACE TABLE "OrderItem"
      "ProductInternalID"    FOR "YD1I1PID" INT NOT NULL,
      "Quantity"             FOR "YD1IQT" NUMERIC(4,0),
      "UnitPrice"            FOR "YD1IPRUN" NUMERIC(8,2),
-     "Discount(Percent)"    FOR "YD1IDSPC" NUMERIC(4,1),
+     "DiscountPercent"      FOR "YD1IDSPC" NUMERIC(4,1),
      "Memo"                 FOR "YD1IM1" NVARCHAR(100),
     
      -- Audit Stamps
@@ -119,7 +117,7 @@ LABEL ON COLUMN "OrderItem" (
      "ProductInternalID"    TEXT IS 'Product Internal ID',
      "Quantity"             TEXT IS 'Quantity',
      "UnitPrice"            TEXT IS 'Unit Price',
-     "Discount(Percent)"    TEXT IS 'Discount (Percent)',
+     "DiscountPercent"      TEXT IS 'Discount Percent',
      "Memo"                 TEXT IS 'Memo',
 
      "CreatedAt"            TEXT IS 'Created At',
@@ -138,7 +136,7 @@ LABEL ON COLUMN "OrderItem" (
      "ProductInternalID"    IS 'Product             Internal ID',
      "Quantity"             IS 'Quantity',
      "UnitPrice"            IS 'Unit Price',
-     "Discount(Percent)"    IS 'Discount (Percent)',
+     "DiscountPercent"      IS 'Discount Percent',
      "Memo"                 IS 'Memo',
 
      "CreatedAt"            IS 'Created At',
@@ -173,7 +171,7 @@ CREATE INDEX "IX_OrderItem_OrderInternalID_ProductInternalID_InternalID"
    "OrderInternalID", "ProductInternalID", "InternalID"
    );
 LABEL ON INDEX "IX_OrderItem_OrderInternalID_ProductInternalID_InternalID"
-   IS 'Sort by Order and Product Internal IDs';
+   IS 'Order and Product Internal IDs';
 
 CREATE INDEX "IX_OrderItem_ProductInternalID_OrderInternalID_InternalID"
    FOR SYSTEM NAME "YD1IIX2"
@@ -181,7 +179,7 @@ CREATE INDEX "IX_OrderItem_ProductInternalID_OrderInternalID_InternalID"
    "ProductInternalID", "OrderInternalID", "InternalID"
    );
 LABEL ON INDEX "IX_OrderItem_ProductInternalID_OrderInternalID_InternalID"
-   IS 'Sort by Product and Order Internal IDs';
+   IS 'Product and Order Internal IDs';
 
 CREATE INDEX "IX_OrderItem_OrderInternalID_InternalID"
    FOR SYSTEM NAME "YD1IIX3"
@@ -189,7 +187,7 @@ CREATE INDEX "IX_OrderItem_OrderInternalID_InternalID"
    "OrderInternalID", "InternalID"
    );
 LABEL ON INDEX "IX_OrderItem_OrderInternalID_InternalID"
-   IS 'Sort by Order Internal ID';
+   IS 'Order Internal ID';
 
 -- Views
 -- CREATE OR REPLACE VIEW "VW_AccountTable_<Descriptors>"

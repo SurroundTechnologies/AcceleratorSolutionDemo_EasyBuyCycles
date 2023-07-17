@@ -32,8 +32,8 @@ IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'EasyBuyDev')
     CREATE DATABASE [EasyBuyDev]
   END
 GO
-
-USE "EasyBuyDev";
+USE "EasyBuyCycles";
+-- USE "EasyBuyCyclesDev";
 
 -- =============================================================================
 -- Customer Table
@@ -570,7 +570,7 @@ CREATE TABLE "dbo"."Product"
      "InternalID"            INT IDENTITY(5000,1) NOT NULL,
      "Code"                  NVARCHAR(25) NOT NULL,
      "Name"                  NVARCHAR(50) NOT NULL,
-     "Description"           NVARCHAR(256),
+     "Description"           NVARCHAR(256) NOT NULL,
      "Category"              NVARCHAR(50),
      "StandardCost"          NUMERIC(10,2),
      "ListPrice"             NUMERIC(10,2),
@@ -790,7 +790,7 @@ GO
 CREATE TABLE "dbo"."Order"
     (
      "InternalID"            INT IDENTITY(5000,1) NOT NULL,
-     "CustomerInternalID"    INT,
+     "CustomerInternalID"    INT NOT NULL,
      "OrderDateTime"         DATETIME2 NOT NULL DEFAULT GETDATE(),
      "PurchaseOrderNumber"   NVARCHAR(50),
      "WarehouseInternalID"   INT,

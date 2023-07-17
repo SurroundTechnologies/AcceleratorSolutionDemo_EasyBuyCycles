@@ -178,13 +178,14 @@ CREATE UNIQUE INDEX "UQ_Product_Name"
    "Name"
    );
 LABEL ON INDEX "UQ_Product_Name"
-   IS 'Sort by Product Name';
+   IS 'Product Name';
+
 CREATE UNIQUE INDEX "UQ_Product_Code"
    FOR SYSTEM NAME YD1PIXU2 ON "Product" (
    "Code"
    );
 LABEL ON INDEX "UQ_Product_Code"
-   IS 'Sort by Product Code';
+   IS 'Product Code';
 
 -- Indexes
 CREATE INDEX "IX_Product_Description_Name"
@@ -193,7 +194,7 @@ CREATE INDEX "IX_Product_Description_Name"
    "Description", "Name"
    );
 LABEL ON INDEX "IX_Product_Description_Name"
-   IS 'Sort by Description';
+   IS 'Description, Name';
 
 CREATE INDEX "IX_Product_Category_Name"
    FOR SYSTEM NAME "YD1PIX4"
@@ -201,7 +202,7 @@ CREATE INDEX "IX_Product_Category_Name"
    "Category", "Name"
    );
 LABEL ON INDEX "IX_Product_Category_Name"
-   IS 'Sort by Category';
+   IS 'Category, Name';
 
 CREATE INDEX "IX_Product_Discontinued_Name"
    FOR SYSTEM NAME "YD1PIX5"
@@ -209,7 +210,7 @@ CREATE INDEX "IX_Product_Discontinued_Name"
    "Discontinued", "Name"
    );
 LABEL ON INDEX "IX_Product_Discontinued_Name"
-   IS 'Sort by Discontinued';
+   IS 'Discontinued, Name';
 
 CREATE INDEX "IX_Product_ListPrice_Name"
    FOR SYSTEM NAME "YD1PIX6"
@@ -217,7 +218,7 @@ CREATE INDEX "IX_Product_ListPrice_Name"
    "ListPrice", "Name"
    );
 LABEL ON INDEX "IX_Product_ListPrice_Name"
-   IS 'Sort by List Price';
+   IS 'List Price, Name';
 
 -- Views
 -- CREATE OR REPLACE VIEW "VW_AccountTable_<Descriptors>"

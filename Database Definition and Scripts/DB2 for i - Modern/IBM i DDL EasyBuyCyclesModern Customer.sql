@@ -188,7 +188,7 @@ ON "Customer" TO QPGMR WITH GRANT OPTION ;
 
 -- Unique Indexes
 CREATE UNIQUE INDEX "UQ_Customer_Name"
-   FOR SYSTEM NAME YD1CIXU1 ON "Customer" (
+   FOR SYSTEM NAME "YD1CIXU1" ON "Customer" (
    "Name"
    );
 LABEL ON INDEX "UQ_Customer_Name"
@@ -196,7 +196,7 @@ LABEL ON INDEX "UQ_Customer_Name"
 
 -- Indexes
 CREATE INDEX "IX_Customer_ParentInternalID_Name"
-   FOR SYSTEM NAME "YD1CIX2"
+   FOR SYSTEM NAME "YD1CIX02"
    ON "Customer" (
    "ParentInternalID", "Name"
    );
@@ -204,7 +204,7 @@ LABEL ON INDEX "IX_Customer_ParentInternalID_Name"
    IS 'Parrent Internal ID';
 
 CREATE INDEX "IX_Customer_LegalName_Name"
-   FOR SYSTEM NAME "YD1CIX3"
+   FOR SYSTEM NAME "YD1CIX03"
    ON "Customer" (
    "LegalName", "Name"
    );
@@ -212,7 +212,7 @@ LABEL ON INDEX "IX_Customer_LegalName_Name"
    IS 'Legal Name';
 
 CREATE INDEX "IX_Customer_ContactLastName_ContactFirstName_Name"
-   FOR SYSTEM NAME "YD1CIX4"
+   FOR SYSTEM NAME "YD1CIX04"
    ON "Customer" (
    "ContactLastName", "ContactFirstName", "Name"
    );
@@ -220,7 +220,7 @@ LABEL ON INDEX "IX_Customer_ContactLastName_ContactFirstName_Name"
    IS 'Contact Last and First Names';
 
 CREATE INDEX "IX_Customer_BillingPostalCode_Name"
-   FOR SYSTEM NAME "YD1CIX5"
+   FOR SYSTEM NAME "YD1CIX05"
    ON "Customer" (
    "BillingPostalCode", "Name"
    );
@@ -228,7 +228,7 @@ LABEL ON INDEX "IX_Customer_BillingPostalCode_Name"
    IS 'Billing Postal Code';
 
 CREATE INDEX "IX_Customer_Telephone_Name"
-   FOR SYSTEM NAME "YD1CIX6"
+   FOR SYSTEM NAME "YD1CIX06"
    ON "Customer" (
    "Telephone", "Name"
    );
@@ -236,7 +236,7 @@ LABEL ON INDEX "IX_Customer_Telephone_Name"
    IS 'Telephone';
 
 CREATE INDEX "IX_Customer_PurchasePoints_Name"
-   FOR SYSTEM NAME "YD1CIX7"
+   FOR SYSTEM NAME "YD1CIX07"
    ON "Customer" (
    "PurchasePoints", "Name"
    );
