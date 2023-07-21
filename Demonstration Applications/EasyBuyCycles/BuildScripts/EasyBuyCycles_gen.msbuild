@@ -1,0 +1,58 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+	ToolsVersion="4.0"
+	DefaultTargets="AllLayers">
+
+
+<Target Name="AllLayers">
+<MSBuild
+	Projects="@(Layer0_0)"
+	BuildInParallel="true"
+	Properties="Configuration=Debug;Platform=AnyCPU"
+	ContinueOnError="true"
+/>
+<MSBuild
+	Projects="@(Layer1_0)"
+	BuildInParallel="true"
+	Properties="Configuration=Debug;Platform=AnyCPU"
+	ContinueOnError="true"
+/>
+<MSBuild
+	Projects="@(Layer2_0)"
+	BuildInParallel="true"
+	Properties="Configuration=Debug;Platform=AnyCPU"
+	ContinueOnError="true"
+/>
+<MSBuild
+	Projects="@(Layer3_0)"
+	BuildInParallel="true"
+	Properties="Configuration=Debug;Platform=AnyCPU"
+	ContinueOnError="true"
+/>
+<MSBuild
+	Projects="@(Layer4_0)"
+	BuildInParallel="true"
+	Properties="Configuration=Debug;Platform=AnyCPU"
+	ContinueOnError="true"
+/>
+</Target>
+
+<ItemGroup>
+	<Layer0_0 Include="..\WPF.EasyBuyCycles.Shared\WPF.EasyBuyCycles.Shared.csproj" />
+	<Layer0_0 Include="..\BOS.EasyBuyCycles.Shared\BOS.EasyBuyCycles.Shared.csproj" />
+</ItemGroup>
+<ItemGroup>
+	<Layer1_0 Include="..\BOS.EasyBuyCycles\BOS.EasyBuyCycles.csproj" />
+</ItemGroup>
+<ItemGroup>
+	<Layer2_0 Include="..\ServiceHost.EasyBuyCycles.BP\ServiceHost.EasyBuyCycles.BP.csproj" />
+	<Layer2_0 Include="..\ServiceHost.EasyBuyCycles.DALForSQL\ServiceHost.EasyBuyCycles.DALForSQL.csproj" />
+	<Layer2_0 Include="..\BOS.EasyBuyCycles.ViewModels\BOS.EasyBuyCycles.ViewModels.csproj" />
+</ItemGroup>
+<ItemGroup>
+	<Layer3_0 Include="..\MVC.EasyBuyCycles\MVC.EasyBuyCycles.csproj" />
+	<Layer3_0 Include="..\WPF.EasyBuyCycles.Views\WPF.EasyBuyCycles.Views.csproj" />
+</ItemGroup>
+<ItemGroup>
+	<Layer4_0 Include="..\WPF.EasyBuyCycles\WPF.EasyBuyCycles.csproj" />
+</ItemGroup>
+</Project>
