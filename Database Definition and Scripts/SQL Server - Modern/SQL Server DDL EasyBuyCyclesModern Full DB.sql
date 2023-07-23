@@ -27,9 +27,15 @@
 --
 -- =============================================================================
 
-IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'EasyBuyDev')
+IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'EasyBuyCycles')
   BEGIN
-    CREATE DATABASE [EasyBuyDev]
+    CREATE DATABASE [EasyBuyCycles]
+  END
+GO
+
+IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'EasyBuyCyclesDev')
+  BEGIN
+    CREATE DATABASE [EasyBuyCyclesDev]
   END
 GO
 USE "EasyBuyCycles";
@@ -45,25 +51,25 @@ CREATE TABLE "dbo"."Customer"
      "ParentRelationship"    NVARCHAR(20),
      "Name"                  NVARCHAR(50) NOT NULL,
      "LegalName"             NVARCHAR(50),
-     "ContactLastName"       NVARCHAR(50),
-     "ContactFirstName"      NVARCHAR(50),
+     "ContactLastName"       NVARCHAR(50) NOT NULL,
+     "ContactFirstName"      NVARCHAR(50) NOT NULL,
      "ContactMiddleName"     NVARCHAR(50),
      "ContactNickName"       NVARCHAR(50),
-     "BillingAddress1"       NVARCHAR(30),
-     "BillingAddress2"       NVARCHAR(30),
-     "BillingAddress3"       NVARCHAR(30),
-     "BillingPostalCode"     NVARCHAR(10),
-     "BillingCountry"        NVARCHAR(50),
+     "BillingAddress1"       NVARCHAR(30) NOT NULL,
+     "BillingAddress2"       NVARCHAR(30) NOT NULL,
+     "BillingAddress3"       NVARCHAR(30) NOT NULL,
+     "BillingPostalCode"     NVARCHAR(10) NOT NULL,
+     "BillingCountry"        NVARCHAR(50) NOT NULL,
      "Telephone"             NVARCHAR(20),
      "Email"                 NVARCHAR(50),
      "Memo"                  NVARCHAR(100),
      "PurchasePoints"        NUMERIC(8,0) DEFAULT 0,
-     "CreatedAt"             DATETIME2 DEFAULT GETDATE(),
-     "CreatedBy"             NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "CreatedWith"           NVARCHAR(128) DEFAULT APP_NAME(),
-     "LastModifiedAt"        DATETIME2 DEFAULT GETDATE(),
-     "LastModifiedBy"        NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "LastModifiedWith"      NVARCHAR(128) DEFAULT APP_NAME(),
+     "CreatedAt"             DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "CreatedBy"             NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "CreatedWith"           NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
+     "LastModifiedAt"        DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "LastModifiedBy"        NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "LastModifiedWith"      NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
 
       -- Primary Key Constraint
       CONSTRAINT "PK_Customer"
@@ -322,25 +328,25 @@ CREATE TABLE "dbo"."ShippingAddress"
      "InternalID"            INT IDENTITY(5000,1) NOT NULL,
      "CustomerInternalID"    INT NOT NULL,
      "Name"                  NVARCHAR(50) NOT NULL,
-     "ContactLastName"       NVARCHAR(50),
-     "ContactFirstName"      NVARCHAR(50),
+     "ContactLastName"       NVARCHAR(50) NOT NULL,
+     "ContactFirstName"      NVARCHAR(50) NOT NULL,
      "ContactMiddleName"     NVARCHAR(50),
      "ContactNickName"       NVARCHAR(50),
-     "Address1"              NVARCHAR(30),
-     "Address2"              NVARCHAR(30),
-     "Address3"              NVARCHAR(30),
-     "PostalCode"            NVARCHAR(10),
-     "Country"               NVARCHAR(50),
+     "Address1"              NVARCHAR(30) NOT NULL,
+     "Address2"              NVARCHAR(30) NOT NULL,
+     "Address3"              NVARCHAR(30) NOT NULL,
+     "PostalCode"            NVARCHAR(10) NOT NULL,
+     "Country"               NVARCHAR(50) NOT NULL,
      "Telephone"             NVARCHAR(20),
      "Email"                 NVARCHAR(50),
      "Memo"                  NVARCHAR(100),
      "PurchasePoints"        NUMERIC(8,0),
-     "CreatedAt"             DATETIME2 DEFAULT GETDATE(),
-     "CreatedBy"             NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "CreatedWith"           NVARCHAR(128) DEFAULT APP_NAME(),
-     "LastModifiedAt"        DATETIME2 DEFAULT GETDATE(),
-     "LastModifiedBy"        NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "LastModifiedWith"      NVARCHAR(128) DEFAULT APP_NAME(),
+     "CreatedAt"             DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "CreatedBy"             NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "CreatedWith"           NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
+     "LastModifiedAt"        DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "LastModifiedBy"        NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "LastModifiedWith"      NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
 
       -- Primary Key Constraint
       CONSTRAINT "PK_ShippingAddress"
@@ -570,22 +576,22 @@ CREATE TABLE "dbo"."Product"
      "InternalID"            INT IDENTITY(5000,1) NOT NULL,
      "Code"                  NVARCHAR(25) NOT NULL,
      "Name"                  NVARCHAR(50) NOT NULL,
-     "Description"           NVARCHAR(256) NOT NULL,
+     "Description"           NVARCHAR(256),
      "Category"              NVARCHAR(50),
      "StandardCost"          NUMERIC(10,2),
-     "ListPrice"             NUMERIC(10,2),
+     "ListPrice"             NUMERIC(10,2) NOT NULL,
      "ReorderLevel"          NUMERIC(4,0),
      "TargetLevel"           NUMERIC(4,0),
      "MinimumReorderQuantity" NUMERIC(4,0),
      "Discontinued"          BIT,
      "Memo"                  NVARCHAR(100),
      "ImagePath"             NVARCHAR(256),
-     "CreatedAt"             DATETIME2 DEFAULT GETDATE(),
-     "CreatedBy"             NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "CreatedWith"           NVARCHAR(128) DEFAULT APP_NAME(),
-     "LastModifiedAt"        DATETIME2 DEFAULT GETDATE(),
-     "LastModifiedBy"        NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "LastModifiedWith"      NVARCHAR(128) DEFAULT APP_NAME(),
+     "CreatedAt"             DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "CreatedBy"             NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "CreatedWith"           NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
+     "LastModifiedAt"        DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "LastModifiedBy"        NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "LastModifiedWith"      NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
 
       -- Primary Key Constraint
       CONSTRAINT "PK_Product"
@@ -789,25 +795,25 @@ GO
 -- =============================================================================
 CREATE TABLE "dbo"."Order"
     (
-     "InternalID"            INT IDENTITY(5000,1) NOT NULL,
+     "InternalID"           INT IDENTITY(5000,1) NOT NULL,
      "CustomerInternalID"    INT NOT NULL,
-     "OrderDateTime"         DATETIME2 NOT NULL DEFAULT GETDATE(),
-     "PurchaseOrderNumber"   NVARCHAR(50),
+     "OrderDateTime"         DATETIME2(0) NOT NULL DEFAULT GETDATE(),
+     "PurchaseOrderNumber"   NVARCHAR(50) NOT NULL,
      "WarehouseInternalID"   INT,
-     "WarehouseName"         NVARCHAR(50),
+     "WarehouseName"         NVARCHAR(50) NOT NULL,
      "DeliveryMemo"          NVARCHAR(100),
      "ShippingAddressInternalID" INT,
      "OrderMemo"             NVARCHAR(100),
      "Status"                NVARCHAR(10),
      "SalesPersonInternalID" INT,
-     "SalesPersonName"       NVARCHAR(50),
+     "SalesPersonName"       NVARCHAR(50) NOT NULL,
      "PurchasePoints"        NUMERIC(8,0),
-     "CreatedAt"             DATETIME2 DEFAULT GETDATE(),
-     "CreatedBy"             NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "CreatedWith"           NVARCHAR(128) DEFAULT APP_NAME(),
-     "LastModifiedAt"        DATETIME2 DEFAULT GETDATE(),
-     "LastModifiedBy"        NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "LastModifiedWith"      NVARCHAR(128) DEFAULT APP_NAME(),
+     "CreatedAt"             DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "CreatedBy"             NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "CreatedWith"           NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
+     "LastModifiedAt"        DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "LastModifiedBy"        NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "LastModifiedWith"      NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
 
       -- Primary Key Constraint
       CONSTRAINT "PK_Order"
@@ -1055,18 +1061,18 @@ GO
 CREATE TABLE "dbo"."OrderItem"
     (
      "InternalID"            INT IDENTITY(5000,1) NOT NULL,
-     "OrderInternalID"       INT,
-     "ProductInternalID"     INT,
-     "Quantity"              NUMERIC(4,0),
+     "OrderInternalID"       INT NOT NULL,
+     "ProductInternalID"     INT NOT NULL,
+     "Quantity"              NUMERIC(4,0) NOT NULL,
      "UnitPrice"             NUMERIC(8,2),
      "DiscountPercent"       NUMERIC(4,1),
      "Memo"                  NVARCHAR(100),
-     "CreatedAt"             DATETIME2 DEFAULT GETDATE(),
-     "CreatedBy"             NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "CreatedWith"           NVARCHAR(128) DEFAULT APP_NAME(),
-     "LastModifiedAt"        DATETIME2 DEFAULT GETDATE(),
-     "LastModifiedBy"        NVARCHAR(128) DEFAULT SYSTEM_USER,
-     "LastModifiedWith"      NVARCHAR(128) DEFAULT APP_NAME(),
+     "CreatedAt"             DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "CreatedBy"             NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "CreatedWith"           NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
+     "LastModifiedAt"        DATETIME2 NOT NULL DEFAULT GETDATE(),
+     "LastModifiedBy"        NVARCHAR(128) NOT NULL DEFAULT SYSTEM_USER,
+     "LastModifiedWith"      NVARCHAR(128) NOT NULL DEFAULT APP_NAME(),
 
       -- Primary Key Constraint
       CONSTRAINT "PK_OrderItem"

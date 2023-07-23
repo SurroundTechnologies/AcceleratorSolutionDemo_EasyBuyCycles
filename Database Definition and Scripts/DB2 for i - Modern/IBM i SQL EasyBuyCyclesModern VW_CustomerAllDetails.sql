@@ -36,7 +36,7 @@ Date       Programmer      Description
 *******************************************************************************/
 
 SET SCHEMA "EasyBuyCycles";
--- SET SCHEMA EasyBuyCyclesDev;
+-- SET SCHEMA "EasyBuyCyclesDev";
 
 DROP VIEW IF EXISTS "VW_Customer_AllDetails";
 
@@ -214,38 +214,38 @@ LABEL ON TABLE "VW_Customer_AllDetails"
 
 -- Column Labels - Description (50 Chars)
 LABEL ON COLUMN "VW_Customer_AllDetails" (
-     "ContactFullName"       TEXT IS 'ContactFullName'
-     ,"BillingAddressLine"    TEXT IS 'BillingAddressLine'
-     ,"BillingAddressBlock"   TEXT IS 'BillingAddressBlock'
-     ,"IsaSubCustomer"        TEXT IS 'IsaSubCustomer'
-     ,"ParentCustomerName"    TEXT IS 'ParentCustomerName'
+     "ContactFullName"              TEXT IS 'ContactFullName'
+     ,"BillingAddressLine"          TEXT IS 'BillingAddressLine'
+     ,"BillingAddressBlock"         TEXT IS 'BillingAddressBlock'
+     ,"IsaSubCustomer"              TEXT IS 'IsaSubCustomer'
+     ,"ParentCustomerName"          TEXT IS 'ParentCustomerName'
      ,"ParentCustomerContactFullname" TEXT IS 'ParentCustomerContactFullname'
-     ,"ParentCustomerTelephone" TEXT IS 'ParentCustomerTelephone'
-     ,"ParentCustomerAddressBlock" TEXT IS 'ParentCustomerAddressBlock'
-     ,"SubCustomerCount"      TEXT IS 'SubCustomerCount'
-     ,"SubCustomerList"       TEXT IS 'SubCustomerList'
-     ,"ShippingAddressCount"  TEXT IS 'ShippingAddressCount'
-     ,"ShippingAddressList"   TEXT IS 'ShippingAddressList'
-     ,"OrderCount"            TEXT IS 'OrderCount'
-     ,"IncompleteOrderCount"  TEXT IS 'IncompleteOrderCount'
-     ,"DiscountedOrderCount"  TEXT IS 'DiscountedOrderCount'
-     ,"HighestOrderSubtotal"  TEXT IS 'HighestOrderSubtotal'
-     ,"HighestDiscount"       TEXT IS 'HighestDiscount'
-     ,"HighestOrderTotal"     TEXT IS 'HighestOrderTotal'
-     ,"AverageOrderSubtotal"  TEXT IS 'AverageOrderSubtotal'
-     ,"AverageDiscount"       TEXT IS 'AverageDiscount'
-     ,"AverageOrderTotal"     TEXT IS 'AverageOrderTotal'
-     ,"LowestOrderSubtotal"   TEXT IS 'LowestOrderSubtotal'
-     ,"LowestDiscount"        TEXT IS 'LowestDiscount'
-     ,"LowestOrderTotal"      TEXT IS 'LowestOrderTotal'
-     ,"LastOrderID"           TEXT IS 'LastOrderID'
-     ,"LastOrderDateTime"     TEXT IS 'LastOrderDateTime'
-     ,"LastOrderStatus"       TEXT IS 'LastOrderStatus'
-     ,"LastUsedShippingAddressID" TEXT IS 'LastUsedShippingAddressID'
+     ,"ParentCustomerTelephone"     TEXT IS 'ParentCustomerTelephone'
+     ,"ParentCustomerAddressBlock"  TEXT IS 'ParentCustomerAddressBlock'
+     ,"SubCustomerCount"            TEXT IS 'SubCustomerCount'
+     ,"SubCustomerList"             TEXT IS 'SubCustomerList'
+     ,"ShippingAddressCount"        TEXT IS 'ShippingAddressCount'
+     ,"ShippingAddressList"         TEXT IS 'ShippingAddressList'
+     ,"OrderCount"                  TEXT IS 'OrderCount'
+     ,"IncompleteOrderCount"        TEXT IS 'IncompleteOrderCount'
+     ,"DiscountedOrderCount"        TEXT IS 'DiscountedOrderCount'
+     ,"HighestOrderSubtotal"        TEXT IS 'HighestOrderSubtotal'
+     ,"HighestDiscount"             TEXT IS 'HighestDiscount'
+     ,"HighestOrderTotal"           TEXT IS 'HighestOrderTotal'
+     ,"AverageOrderSubtotal"        TEXT IS 'AverageOrderSubtotal'
+     ,"AverageDiscount"             TEXT IS 'AverageDiscount'
+     ,"AverageOrderTotal"           TEXT IS 'AverageOrderTotal'
+     ,"LowestOrderSubtotal"         TEXT IS 'LowestOrderSubtotal'
+     ,"LowestDiscount"              TEXT IS 'LowestDiscount'
+     ,"LowestOrderTotal"            TEXT IS 'LowestOrderTotal'
+     ,"LastOrderID"                 TEXT IS 'LastOrderID'
+     ,"LastOrderDateTime"           TEXT IS 'LastOrderDateTime'
+     ,"LastOrderStatus"             TEXT IS 'LastOrderStatus'
+     ,"LastUsedShippingAddressID"   TEXT IS 'LastUsedShippingAddressID'
      ,"LastUsedShippingAddressName" TEXT IS 'LastUsedShippingAddressName'
      ,"LastUsedShippingAddressLine" TEXT IS 'LastUsedShippingAddressLine'
-     ,"OrderedItemsCount"     TEXT IS 'OrderedItemsCount'
-     ,"ProductsOrderedCount"  TEXT IS 'ProductsOrderedCount'
+     ,"OrderedItemsCount"           TEXT IS 'OrderedItemsCount'
+     ,"ProductsOrderedCount"        TEXT IS 'ProductsOrderedCount'
 );
 
 -- Grant View Access
