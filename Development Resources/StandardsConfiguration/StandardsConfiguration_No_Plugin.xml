@@ -137,12 +137,12 @@
   <BPAcceleratorWebServiceAddress>http://localhost:57592/</BPAcceleratorWebServiceAddress>
   <BPWebServicePort>19743</BPWebServicePort>
   <CompanyName>EasyBuy Distributors</CompanyName>
-  <CompanyImageName>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\images\EasyBuyDistributors48x200.png</CompanyImageName>
+  <CompanyImageName>C:\SurroundSystems\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\EasyBuyDistributors48x200.png</CompanyImageName>
   <SystemVersion>Version 1.0.0.0</SystemVersion>
-  <LogonImageName>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\images\EasyBuyv4Logo_256_256_32.png</LogonImageName>
-  <SplashImageName>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\images\easybuyv4horiz90h.png</SplashImageName>
+  <LogonImageName>C:\SurroundSystems\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\EasyBuyv4Logo_256_256_32.png</LogonImageName>
+  <SplashImageName>C:\SurroundSystems\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\easybuyv4horiz90h.png</SplashImageName>
   <ImagesRelativePath>/images/</ImagesRelativePath>
-  <ImagesPathToCopy>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\images\</ImagesPathToCopy>
+  <ImagesPathToCopy>C:\SurroundSystems\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\</ImagesPathToCopy>
   <TechnologyService>SURROUND:XML_SVC</TechnologyService>
   <BPSystemConnectionType>WebServices</BPSystemConnectionType>
   <DALSystemConnectionType>Direct</DALSystemConnectionType>
