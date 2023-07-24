@@ -1,12 +1,23 @@
-﻿using A4DN.Core.BOS.Base;
+﻿using A4DN.CF.SchemaEntities;
+using A4DN.Core.BOS.Base;
 using A4DN.Core.BOS.FrameworkEntity;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
+using A4DN.CF.WizardShared;
 
 namespace GenerationWizardPlugin
 {
     public class EasyBuyWizardDefaults_MSSQLLegacy : WizardDefaults
     {
+        public override void am_Initialize(AB_GenerationWizardShared generationWizardShared)
+        {
+            // Relationships are pulled from the database access routes. If no relationships are defined on the database, you can define the relationships in the _GetDatabaseRelationships method.
+            generationWizardShared.ap_DatabaseRelationships = _GetDatabaseRelationships();
+
+            base.am_Initialize(generationWizardShared);
+        }
+
         internal override void SetModuleRulesBeforeColumnRules(WizardDefaults.Mode mode, AB_GenerationModuleEntity moduleEntity)
         {
             AuditStamps = new Dictionary<string, AB_AuditStampTypes>()
@@ -224,5 +235,54 @@ namespace GenerationWizardPlugin
                 }
             }
         }
+
+        #region Relationships
+
+        private ObservableCollection<AB_SchemaRelationshipEntity> _GetDatabaseRelationships()
+        {
+            var relationships = new ObservableCollection<AB_SchemaRelationshipEntity>();
+
+            // Customers have One to Many Orders
+            relationships.Add(_AddRelationship("EASYBUYDEM", "YD1C", "YD1CIID", "EASYBUYDEM", "YD1O", "YD1O1CID", SchemaRelationshipType.OneToMany));
+            // Customers have One to Many Shipping Addresses
+            relationships.Add(_AddRelationship("EASYBUYDEM", "YD1C", "YD1CIID", "EASYBUYDEM", "YD1S", "YD1S1CID", SchemaRelationshipType.OneToMany));
+            // Customers have Customer
+            relationships.Add(_AddRelationship("EASYBUYDEM", "YD1C", "YD1CIID", "EASYBUYDEM", "YD1C", "YD1CPTID", SchemaRelationshipType.OneToMany));
+            // Orders have One to Many Order Items
+            relationships.Add(_AddRelationship("EASYBUYDEM", "YD1O", "YD1OIID", "EASYBUYDEM", "YD1I", "YD1I1OID", SchemaRelationshipType.OneToMany));
+            // Products have One to Many Order Items
+            relationships.Add(_AddRelationship("EASYBUYDEM", "YD1P", "YD1PIID", "EASYBUYDEM", "YD1I", "YD1I1PID", SchemaRelationshipType.OneToMany));
+            // Shipping Addresses have One to Many Order
+            relationships.Add(_AddRelationship("EASYBUYDEM", "YD1S", "YD1SIID", "EASYBUYDEM", "YD1O", "YD1O1SID", SchemaRelationshipType.OneToMany));
+
+            // Customers have One to Many Orders
+            relationships.Add(_AddRelationship("EASYBUYDEV", "YD1C", "YD1CIID", "EASYBUYDEV", "YD1O", "YD1O1CID", SchemaRelationshipType.OneToMany));
+            // Customers have One to Many Shipping Addresses
+            relationships.Add(_AddRelationship("EASYBUYDEV", "YD1C", "YD1CIID", "EASYBUYDEV", "YD1S", "YD1S1CID", SchemaRelationshipType.OneToMany));
+            // Customers have Customer
+            relationships.Add(_AddRelationship("EASYBUYDEV", "YD1C", "YD1CIID", "EASYBUYDEV", "YD1C", "YD1CPTID", SchemaRelationshipType.OneToMany));
+            // Orders have One to Many Order Items
+            relationships.Add(_AddRelationship("EASYBUYDEV", "YD1O", "YD1OIID", "EASYBUYDEV", "YD1I", "YD1I1OID", SchemaRelationshipType.OneToMany));
+            // Products have One to Many Order Items
+            relationships.Add(_AddRelationship("EASYBUYDEV", "YD1P", "YD1PIID", "EASYBUYDEV", "YD1I", "YD1I1PID", SchemaRelationshipType.OneToMany));
+            // Shipping Addresses have One to Many Order
+            relationships.Add(_AddRelationship("EASYBUYDEV", "YD1S", "YD1SIID", "EASYBUYDEV", "YD1O", "YD1O1SID", SchemaRelationshipType.OneToMany));
+
+            return relationships;
+        }
+
+        private AB_SchemaRelationshipEntity _AddRelationship(string primarySchema, string primaryTable, string primaryKeyColumn, string foreignSchema, string foreignTable, string foreignKeyColumn, SchemaRelationshipType relationshipType)
+        {
+            return new AB_SchemaRelationshipEntity()
+            {
+                PrimaryTable = primaryTable,
+                PrimaryKeyColumn = primaryKeyColumn,
+                ForeignTable = foreignTable,
+                ForeignKeyColumn = foreignKeyColumn,
+                RelationshipType = relationshipType,
+            };
+        }
+
+        #endregion Relationships
     }
 }

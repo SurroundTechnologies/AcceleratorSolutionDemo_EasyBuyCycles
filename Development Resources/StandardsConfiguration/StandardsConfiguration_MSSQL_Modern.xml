@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenerationStandards>
-  <DefaultConfigurationXMLPath>C:\Program Files\Accelerator for .NET\v4_0\CodeFactory\\DefaultStandardsConfiguration.xml</DefaultConfigurationXMLPath>
+  <DefaultConfigurationXMLPath>C:\Program Files\Accelerator for .NET\Master\CodeFactory\\DefaultStandardsConfiguration.xml</DefaultConfigurationXMLPath>
   <UpgradeScriptsLogPath></UpgradeScriptsLogPath>
   <SystemGenerationPath></SystemGenerationPath>
   <AcceleratorExportPath></AcceleratorExportPath>
@@ -28,10 +28,10 @@
   <GeneratedFromLANSA>false</GeneratedFromLANSA>
   <GenerateAsPartialClasses>false</GenerateAsPartialClasses>
   <UseTableAliases>false</UseTableAliases>
-  <UseWizardDefaultSettingsComponent>false</UseWizardDefaultSettingsComponent>
-  <WizardDefaultSettingsComponentLocation></WizardDefaultSettingsComponentLocation>
-  <WizardDefaultSettingsComponentNamespace></WizardDefaultSettingsComponentNamespace>
-  <WizardDefaultSettingsComponentClassName></WizardDefaultSettingsComponentClassName>
+  <UseWizardDefaultSettingsComponent>true</UseWizardDefaultSettingsComponent>
+  <WizardDefaultSettingsComponentLocation>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\OpenGenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.dll</WizardDefaultSettingsComponentLocation>
+  <WizardDefaultSettingsComponentNamespace>GenerationWizardPlugin</WizardDefaultSettingsComponentNamespace>
+  <WizardDefaultSettingsComponentClassName>EasyBuyWizardDefaults_MSSQLLModern</WizardDefaultSettingsComponentClassName>
   <RunDependencyTool>true</RunDependencyTool>
   <GenerateForWAMs>false</GenerateForWAMs>
   <ShowIDE>false</ShowIDE>
@@ -50,8 +50,8 @@
   <NL_ReturnToMainMenuMacro>renew_ReturnToMainMenu.F3</NL_ReturnToMainMenuMacro>
   <NL_MaxSessionsAllowed>8</NL_MaxSessionsAllowed>
   <NL_NumPreConnectSessions>0</NL_NumPreConnectSessions>
-  <ViewModelCombinedProjectNameStd></ViewModelCombinedProjectNameStd>
-  <BOSCombinedProjectNameStd></BOSCombinedProjectNameStd>
+  <ViewModelCombinedProjectNameStd>BOS.{System}.ViewModels</ViewModelCombinedProjectNameStd>
+  <BOSCombinedProjectNameStd>BOS.{System}</BOSCombinedProjectNameStd>
   <SystemRootFolderNameStd>System</SystemRootFolderNameStd>
   <SystemSolutionNameStd>{System}System</SystemSolutionNameStd>
   <ApplicationSolutionNameStd>{SolutionName}</ApplicationSolutionNameStd>
@@ -62,12 +62,12 @@
   <ApplicationSystemSolutionFolderNameStd>System</ApplicationSystemSolutionFolderNameStd>
   <ModuleAssembliesSolutionFolderNameStd>{AssemblyName}</ModuleAssembliesSolutionFolderNameStd>
   <BOSSolutionNameStd></BOSSolutionNameStd>
-  <ServiceHostProjectNameStd>BOS.{System}ServiceHost</ServiceHostProjectNameStd>
+  <ServiceHostProjectNameStd>ServiceHost.{System}</ServiceHostProjectNameStd>
   <ServiceHostItemNameStd></ServiceHostItemNameStd>
   <LansaServiceAgentProjectNameStd>BOS.{System}LAXServiceAgent</LansaServiceAgentProjectNameStd>
   <LansaServiceAgentItemNameStd>{System}LSA</LansaServiceAgentItemNameStd>
   <LansaServiceAgentHostProjectNameStd>BOS.{System}LAXServiceAgentHost</LansaServiceAgentHostProjectNameStd>
-  <SystemSharedResourcesProjectNameStd>BOS.{System}Shared</SystemSharedResourcesProjectNameStd>
+  <SystemSharedResourcesProjectNameStd>BOS.{System}.Shared</SystemSharedResourcesProjectNameStd>
   <ValidationAttributesItemNameStd>ValidationAttributes</ValidationAttributesItemNameStd>
   <EntityProjectNameStd>BOS.{AssemblyName}DataEntity</EntityProjectNameStd>
   <EntityItemNameStd>{AssemblyName}Entity</EntityItemNameStd>
@@ -93,8 +93,8 @@
   <BPSVCItemNameStd>{AssemblyName}BP</BPSVCItemNameStd>
   <EntityDataContractsStd>{AssemblyName}DataContracts</EntityDataContractsStd>
   <WPFSolutionNameStd></WPFSolutionNameStd>
-  <WPFSystemCoreProjectNameStd>WPF.{System}Core</WPFSystemCoreProjectNameStd>
-  <WPFSystemViewsProjectNameStd></WPFSystemViewsProjectNameStd>
+  <WPFSystemCoreProjectNameStd>WPF.{System}.Shared</WPFSystemCoreProjectNameStd>
+  <WPFSystemViewsProjectNameStd>WPF.{System}.Views</WPFSystemViewsProjectNameStd>
   <WPFSystemProjectNameStd>WPF.{System}</WPFSystemProjectNameStd>
   <WPFModuleProjectNameStd>WPF.{AssemblyName}</WPFModuleProjectNameStd>
   <WPFSplashItemNameStd>Splash</WPFSplashItemNameStd>
@@ -110,7 +110,7 @@
   <MVCControllerItemNameStd>{AssemblyName}Controller</MVCControllerItemNameStd>
   <MVCDetailItemNameStd>_{AssemblyName}Detail</MVCDetailItemNameStd>
   <MVCExplorerBarNameStd>_{AssemblyName}ExpBarSearch</MVCExplorerBarNameStd>
-  <MVCDropDownItemNameStd>_{AssemblyName}DropDown</MVCDropDownItemNameStd>
+  <MVCDropDownItemNameStd>_{AssemblyName}Dropdown</MVCDropDownItemNameStd>
   <WebAPISystemProjectNameStd>WebAPI.{System}</WebAPISystemProjectNameStd>
   <WebAPIControllerItemNameStd>{AssemblyName}Controller</WebAPIControllerItemNameStd>
   <SLSystemProjectNameStd>Silverlight.{System}</SLSystemProjectNameStd>
@@ -136,13 +136,13 @@
   <DALAcceleratorWebServiceAddress>http://localhost:49606/</DALAcceleratorWebServiceAddress>
   <BPAcceleratorWebServiceAddress>http://localhost:57592/</BPAcceleratorWebServiceAddress>
   <BPWebServicePort>19743</BPWebServicePort>
-  <CompanyName>EasyBuy Distributors</CompanyName>
-  <CompanyImageName>%USERPROFILE%\Documents\Accelerator for .NET\StandardsConfiguration\EasyBuy\images\EasyBuyDistributors48x200.png</CompanyImageName>
+  <CompanyName>EasyBuy Cycles Distributors</CompanyName>
+  <CompanyImageName>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\images\EasyBuyDistributors48x200.png</CompanyImageName>
   <SystemVersion>Version 1.0.0.0</SystemVersion>
-  <LogonImageName>%USERPROFILE%\Documents\Accelerator for .NET\StandardsConfiguration\EasyBuy\images\EasyBuyv4Logo_256_256_32.png</LogonImageName>
-  <SplashImageName>%USERPROFILE%\Documents\Accelerator for .NET\StandardsConfiguration\EasyBuy\images\EasyBuyv4Logo_256_256_32.png</SplashImageName>
+  <LogonImageName>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\images\EasyBuyv4Logo_256_256_32.png</LogonImageName>
+  <SplashImageName>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\images\easybuyv4horiz90h.png</SplashImageName>
   <ImagesRelativePath>/images/</ImagesRelativePath>
-  <ImagesPathToCopy>%USERPROFILE%\Documents\Accelerator for .NET\StandardsConfiguration\EasyBuy\images\</ImagesPathToCopy>
+  <ImagesPathToCopy>C:\SurroundSystems\AcceleratorSolutionDemos_EasyBuyCycles\Development Resources\images\</ImagesPathToCopy>
   <TechnologyService>SURROUND:XML_SVC</TechnologyService>
   <BPSystemConnectionType>WebServices</BPSystemConnectionType>
   <DALSystemConnectionType>Direct</DALSystemConnectionType>
