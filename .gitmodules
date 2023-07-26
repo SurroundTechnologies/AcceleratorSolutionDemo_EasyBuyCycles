@@ -1,0 +1,3 @@
+[submodule "Development Resources/OpenGenerationWizardPlugin"]
+	path = Development Resources/OpenGenerationWizardPlugin
+	url = git@github.com:SurroundTechnologies/OpenGenerationWizardPlugin.git
