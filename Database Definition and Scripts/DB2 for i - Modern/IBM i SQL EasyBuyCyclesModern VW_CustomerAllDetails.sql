@@ -46,14 +46,14 @@ CREATE OR REPLACE VIEW "VW_Customer_AllDetails"
     	SELECT "ParentInternalID"
     			,COUNT(*) AS "SubCustomerCount"
     			,CLOB(LISTAGG("InternalID" CONCAT '-' CONCAT "Name",', ' ON OVERFLOW TRUNCATE '...' WITH COUNT) WITHIN GROUP(ORDER BY "Name"),5000) AS "SubCustomerList"
-    		FROM "Customer" AS "Customer"
+    		FROM "Customer"
     		GROUP BY "ParentInternalID"
     )
     , "ShippingAddresses" AS (
     	SELECT "CustomerInternalID"
     			,COUNT(*) AS "ShippingAddressCount"
     			,CLOB(LISTAGG("InternalID" CONCAT '-' CONCAT "Name",', ' ON OVERFLOW TRUNCATE '...' WITH COUNT) WITHIN GROUP(ORDER BY "Name"),5000) AS "ShippingAddressList"
-    		FROM "ShippingAddress" AS "ShippingAddress"
+    		FROM "ShippingAddress"
     		GROUP BY "CustomerInternalID"
     )
     ,"OrderItems" AS (
@@ -61,7 +61,7 @@ CREATE OR REPLACE VIEW "VW_Customer_AllDetails"
     			,DECIMAL(SUM("Quantity" * "UnitPrice"),11,2) AS "OrderSubtotal"
     			,DECIMAL(SUM("Quantity" * "UnitPrice" * ("DiscountPercent" * 0.01)),11,2) AS "OrderDiscount"
     			,DECIMAL(SUM("Quantity" * "UnitPrice" * (1 - ("DiscountPercent" * 0.01))),11,2) AS "OrderTotal"
-    		FROM "OrderItem" AS "OrderItem"
+    		FROM "OrderItem"
     		GROUP BY "OrderInternalID"
     )
     ,"Orders" AS (
@@ -78,7 +78,7 @@ CREATE OR REPLACE VIEW "VW_Customer_AllDetails"
     			,DECIMAL(MIN("OrderItems"."OrderSubtotal"),11,2) AS "LowestOrderSubtotal"
     			,DECIMAL(MIN("OrderItems"."OrderDiscount"),11,2) AS "LowestDiscount"
     			,DECIMAL(MIN("OrderItems"."OrderTotal"),11,2) AS "LowestOrderTotal"
-    		FROM "Order" AS "Order"
+    		FROM "Order"
     		LEFT JOIN "OrderItems" ON "OrderItems"."OrderInternalID" = "Order"."InternalID"
     		GROUP BY "CustomerInternalID" 
     )
@@ -86,7 +86,7 @@ CREATE OR REPLACE VIEW "VW_Customer_AllDetails"
     	SELECT "CustomerInternalID"
     			,COUNT(*) AS "OrderedItemsCount"
     			,COUNT(DISTINCT "ProductInternalID") AS "ProductsOrderedCount"
-    		FROM "Order" AS "Order"
+    		FROM "Order"
     		RIGHT JOIN "OrderItem" ON "OrderItem"."OrderInternalID" = "Order"."InternalID"
     		LEFT JOIN "Product" ON "Product"."InternalID" = "OrderItem"."ProductInternalID"
     		GROUP BY "CustomerInternalID" 
@@ -181,7 +181,7 @@ CREATE OR REPLACE VIEW "VW_Customer_AllDetails"
             ,"Customer"."LastModifiedBy" AS "ModifiedBy"
             ,"Customer"."LastModifiedWith" AS "ModifiedWith"
     
-    	FROM "Customer" AS "Customer"
+    	FROM "Customer"
     	LEFT JOIN LATERAL (
     		SELECT "Order"."InternalID" AS "LastOrderID"
     				,"Order"."OrderDateTime" AS "LastOrderDateTime"
@@ -194,7 +194,7 @@ CREATE OR REPLACE VIEW "VW_Customer_AllDetails"
             		   CONCAT CASE "ShippingAddress"."PostalCode" WHEN '' THEN '' ELSE SPACE(1) CONCAT "ShippingAddress"."PostalCode" END
             		   CONCAT CASE "ShippingAddress"."Country" WHEN '' THEN '' ELSE ', ' CONCAT "ShippingAddress"."Country" END
                        AS "LastUsedShippingAddressLine"
-    			FROM "Order" AS "Order"
+    			FROM "Order"
     			RIGHT JOIN "OrderItem" ON "OrderInternalID" = "Order"."InternalID"
     			LEFT JOIN "ShippingAddress" ON "ShippingAddress"."InternalID" = "Order"."ShippingAddressInternalID"
     			WHERE "Order"."CustomerInternalID" = "Customer"."InternalID"
@@ -214,38 +214,38 @@ LABEL ON TABLE "VW_Customer_AllDetails"
 
 -- Column Labels - Description (50 Chars)
 LABEL ON COLUMN "VW_Customer_AllDetails" (
-     "ContactFullName"              TEXT IS 'ContactFullName'
-     ,"BillingAddressLine"          TEXT IS 'BillingAddressLine'
-     ,"BillingAddressBlock"         TEXT IS 'BillingAddressBlock'
-     ,"IsaSubCustomer"              TEXT IS 'IsaSubCustomer'
-     ,"ParentCustomerName"          TEXT IS 'ParentCustomerName'
-     ,"ParentCustomerContactFullname" TEXT IS 'ParentCustomerContactFullname'
-     ,"ParentCustomerTelephone"     TEXT IS 'ParentCustomerTelephone'
-     ,"ParentCustomerAddressBlock"  TEXT IS 'ParentCustomerAddressBlock'
-     ,"SubCustomerCount"            TEXT IS 'SubCustomerCount'
-     ,"SubCustomerList"             TEXT IS 'SubCustomerList'
-     ,"ShippingAddressCount"        TEXT IS 'ShippingAddressCount'
-     ,"ShippingAddressList"         TEXT IS 'ShippingAddressList'
-     ,"OrderCount"                  TEXT IS 'OrderCount'
-     ,"IncompleteOrderCount"        TEXT IS 'IncompleteOrderCount'
-     ,"DiscountedOrderCount"        TEXT IS 'DiscountedOrderCount'
-     ,"HighestOrderSubtotal"        TEXT IS 'HighestOrderSubtotal'
-     ,"HighestDiscount"             TEXT IS 'HighestDiscount'
-     ,"HighestOrderTotal"           TEXT IS 'HighestOrderTotal'
-     ,"AverageOrderSubtotal"        TEXT IS 'AverageOrderSubtotal'
-     ,"AverageDiscount"             TEXT IS 'AverageDiscount'
-     ,"AverageOrderTotal"           TEXT IS 'AverageOrderTotal'
-     ,"LowestOrderSubtotal"         TEXT IS 'LowestOrderSubtotal'
-     ,"LowestDiscount"              TEXT IS 'LowestDiscount'
-     ,"LowestOrderTotal"            TEXT IS 'LowestOrderTotal'
-     ,"LastOrderID"                 TEXT IS 'LastOrderID'
-     ,"LastOrderDateTime"           TEXT IS 'LastOrderDateTime'
-     ,"LastOrderStatus"             TEXT IS 'LastOrderStatus'
-     ,"LastUsedShippingAddressID"   TEXT IS 'LastUsedShippingAddressID'
-     ,"LastUsedShippingAddressName" TEXT IS 'LastUsedShippingAddressName'
-     ,"LastUsedShippingAddressLine" TEXT IS 'LastUsedShippingAddressLine'
-     ,"OrderedItemsCount"           TEXT IS 'OrderedItemsCount'
-     ,"ProductsOrderedCount"        TEXT IS 'ProductsOrderedCount'
+     "ContactFullName"              TEXT IS 'Contact Full Name'
+     ,"BillingAddressLine"          TEXT IS 'Billing Address Line'
+     ,"BillingAddressBlock"         TEXT IS 'Billing Address Block'
+     ,"IsaSubCustomer"              TEXT IS 'Is a Sub Customer'
+     ,"ParentCustomerName"          TEXT IS 'Parent Customer Name'
+     ,"ParentCustomerContactFullname" TEXT IS 'Parent Customer Contact Full Name'
+     ,"ParentCustomerTelephone"     TEXT IS 'Parent Customer Telephone'
+     ,"ParentCustomerAddressBlock"  TEXT IS 'Parent Customer Address Block'
+     ,"SubCustomerCount"            TEXT IS 'Sub Customer Count'
+     ,"SubCustomerList"             TEXT IS 'Sub Customer List'
+     ,"ShippingAddressCount"        TEXT IS 'Shipping Address Count'
+     ,"ShippingAddressList"         TEXT IS 'Shipping Address List'
+     ,"OrderCount"                  TEXT IS 'Order Count'
+     ,"IncompleteOrderCount"        TEXT IS 'Incomplete Order Count'
+     ,"DiscountedOrderCount"        TEXT IS 'Discounted Order Count'
+     ,"HighestOrderSubtotal"        TEXT IS 'Highest Order Subtotal'
+     ,"HighestDiscount"             TEXT IS 'Highest Discount'
+     ,"HighestOrderTotal"           TEXT IS 'Highest Order Total'
+     ,"AverageOrderSubtotal"        TEXT IS 'Average Order Subtotal'
+     ,"AverageDiscount"             TEXT IS 'Average Discount'
+     ,"AverageOrderTotal"           TEXT IS 'Average Order Total'
+     ,"LowestOrderSubtotal"         TEXT IS 'Lowest Order Subtotal'
+     ,"LowestDiscount"              TEXT IS 'Lowest Discount'
+     ,"LowestOrderTotal"            TEXT IS 'Lowest Order Total'
+     ,"LastOrderID"                 TEXT IS 'Last Order ID'
+     ,"LastOrderDateTime"           TEXT IS 'Last Order Date Time'
+     ,"LastOrderStatus"             TEXT IS 'Last Order Status'
+     ,"LastUsedShippingAddressID"   TEXT IS 'Last Used Shipping Address ID'
+     ,"LastUsedShippingAddressName" TEXT IS 'Last Used Shipping Address Name'
+     ,"LastUsedShippingAddressLine" TEXT IS 'Last Used Shipping Address Line'
+     ,"OrderedItemsCount"           TEXT IS 'Ordered Items Count'
+     ,"ProductsOrderedCount"        TEXT IS 'Products Ordered Count'
 );
 
 -- Grant View Access
