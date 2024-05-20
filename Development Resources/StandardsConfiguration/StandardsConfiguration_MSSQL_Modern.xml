@@ -1,135 +1,116 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenerationStandards>
+  <DefaultConfigurationXMLPath>C:\Program Files\Accelerator for .NET\Master\CodeFactory\\DefaultStandardsConfiguration.xml</DefaultConfigurationXMLPath>
+  <UpgradeScriptsLogPath></UpgradeScriptsLogPath>
+  <SystemGenerationPath></SystemGenerationPath>
+  <AcceleratorExportPath></AcceleratorExportPath>
+  <SystemBUSDLLName></SystemBUSDLLName>
+  <TemplateType>CSharp</TemplateType>
+  <ToolsVersion>17.0</ToolsVersion>
+  <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+  <MSBuildExeOverridePath></MSBuildExeOverridePath>
   <TabControlType>Docking</TabControlType>
-  <GroupSolutionsByApplication>false</GroupSolutionsByApplication>
-  <ExecuteApplication>true</ExecuteApplication>
   <GenerateBOS>true</GenerateBOS>
-  <GenerateDALForSQL>true</GenerateDALForSQL>
-  <GenerateDALServiceProxy>false</GenerateDALServiceProxy>
   <GenerateWPF>true</GenerateWPF>
   <GenerateMVC>true</GenerateMVC>
-  <UseObjectNamesInsteadOfDescriptions>true</UseObjectNamesInsteadOfDescriptions>
+  <GenerateWebAPI>false</GenerateWebAPI>
+  <GenerateSilverlight>false</GenerateSilverlight>
+  <GenerateBPServiceProxy>true</GenerateBPServiceProxy>
+  <GenerateDALServiceProxy>false</GenerateDALServiceProxy>
+  <GroupSolutionsByApplication>false</GroupSolutionsByApplication>
+  <ExecuteApplication>true</ExecuteApplication>
+  <OpenSystemSolution>true</OpenSystemSolution>
+  <ShowImageAndTextOnLogonAndSplash>true</ShowImageAndTextOnLogonAndSplash>
+  <GenerateDALForLANSA>false</GenerateDALForLANSA>
+  <GenerateDALForSQL>true</GenerateDALForSQL>
+  <DefaultDALType>SQL</DefaultDALType>
+  <AcceleratorDALType>MSSql</AcceleratorDALType>
+  <GeneratedFromLANSA>false</GeneratedFromLANSA>
   <GenerateAsPartialClasses>false</GenerateAsPartialClasses>
   <UseTableAliases>false</UseTableAliases>
   <UseWizardDefaultSettingsComponent>true</UseWizardDefaultSettingsComponent>
-  <WizardDefaultSettingsComponentClassName>EasyBuyWizardDefaults_MSSQLLModern</WizardDefaultSettingsComponentClassName>
+  <WizardDefaultSettingsComponentLocation>C:\SurroundCore\AcceleratorOpenGenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.dll</WizardDefaultSettingsComponentLocation>
   <WizardDefaultSettingsComponentNamespace>GenerationWizardPlugin</WizardDefaultSettingsComponentNamespace>
-  <WizardDefaultSettingsComponentLocation>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\AcceleratorOpenGenerationWizardPlugin\bin\Debug\GenerationWizardPlugin.dll</WizardDefaultSettingsComponentLocation>
+  <WizardDefaultSettingsComponentClassName>EasyBuyWizardDefaults_MSSQLLModern</WizardDefaultSettingsComponentClassName>
+  <RunDependencyTool>true</RunDependencyTool>
+  <GenerateForWAMs>false</GenerateForWAMs>
+  <ShowIDE>false</ShowIDE>
+  <UseObjectNamesInsteadOfDescriptions>true</UseObjectNamesInsteadOfDescriptions>
+  <UseMSSQLObjectNamesInsteadOfDescriptions>true</UseMSSQLObjectNamesInsteadOfDescriptions>
   <CommaDelimitedEnvIDsForDeploymentScripts>DEV,TST,PRO</CommaDelimitedEnvIDsForDeploymentScripts>
   <SystemDeploymentFolder>C:\Deployments\{System}\_Publish</SystemDeploymentFolder>
-  <DbTrueEquivalentDefault></DbTrueEquivalentDefault>
   <DbFalseEquivalentDefault></DbFalseEquivalentDefault>
-  <MSBuildExeOverridePath></MSBuildExeOverridePath>
-  <BPAcceleratorWebServiceAddress>http://localhost:57592/</BPAcceleratorWebServiceAddress>
-  <DALAcceleratorWebServiceAddress>http://localhost:49606/</DALAcceleratorWebServiceAddress>
-  <WebServiceURI>http://localhost:</WebServiceURI>
-  <BPWebServicePort>19743</BPWebServicePort>
-  <DALWebServicePortForSQL>19742</DALWebServicePortForSQL>
-  <ShowImageAndTextOnLogonAndSplash>true</ShowImageAndTextOnLogonAndSplash>
-  <CompanyName>EasyBuy Cycles Distributors</CompanyName>
-  <CompanyImageName>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\EasyBuyDistributors48x200.png</CompanyImageName>
-  <SystemVersion>Version 1.0.0.0</SystemVersion>
-  <LogonImageName>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\EasyBuyv4Logo_256_256_32.png</LogonImageName>
-  <SplashImageName>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\easybuyv4horiz90h.png</SplashImageName>
-  <ImagesRelativePath>/images/</ImagesRelativePath>
-  <ImagesPathToCopy>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\</ImagesPathToCopy>
-  <LansaConnectionName></LansaConnectionName>
-  <LansaConnectionUserName></LansaConnectionUserName>
-  <LansaConnectionPassword></LansaConnectionPassword>
-  <LansaDatabaseName></LansaDatabaseName>
-  <LansaDatabaseUserName></LansaDatabaseUserName>
-  <LansaDatabasePassword></LansaDatabasePassword>
-  <LansaPartition></LansaPartition>
-  <SystemBUSDLLName></SystemBUSDLLName>
-  <SystemSolutionNameStd>{System}System</SystemSolutionNameStd>
+  <DbTrueEquivalentDefault></DbTrueEquivalentDefault>
+  <GenerateForReNew>false</GenerateForReNew>
+  <NL_iniSettingsFile>@renew\renewTemplate.ini</NL_iniSettingsFile>
+  <NL_SignonToMainMenuTransaction>renew_SignonToMainMenu</NL_SignonToMainMenuTransaction>
+  <NL_SignofffromMainMenuTransaction>renew_SignoffFromMainMenu</NL_SignofffromMainMenuTransaction>
+  <NL_ConnectionName>DeveloperDisplay</NL_ConnectionName>
+  <NL_LoggingAndTraceRelativePath>@renew\Logs\</NL_LoggingAndTraceRelativePath>
+  <NL_ReturnToMainMenuMacro>renew_ReturnToMainMenu.F3</NL_ReturnToMainMenuMacro>
+  <NL_MaxSessionsAllowed>8</NL_MaxSessionsAllowed>
+  <NL_NumPreConnectSessions>0</NL_NumPreConnectSessions>
+  <ViewModelCombinedProjectNameStd>BOS.{System}.ViewModels</ViewModelCombinedProjectNameStd>
+  <BOSCombinedProjectNameStd>BOS.{System}</BOSCombinedProjectNameStd>
   <SystemRootFolderNameStd>System</SystemRootFolderNameStd>
-  <ServiceHostProjectNameStd>ServiceHost.{System}</ServiceHostProjectNameStd>
-  <SystemSharedResourcesProjectNameStd>BOS.{System}.Shared</SystemSharedResourcesProjectNameStd>
-  <ValidationAttributesItemNameStd>ValidationAttributes</ValidationAttributesItemNameStd>
-  <WPFSystemCoreProjectNameStd>WPF.{System}.Shared</WPFSystemCoreProjectNameStd>
-  <WPFSystemProjectNameStd>WPF.{System}</WPFSystemProjectNameStd>
-  <WPFSplashItemNameStd>Splash</WPFSplashItemNameStd>
-  <WPFLogonItemNameStd>Logon</WPFLogonItemNameStd>
-  <WPFBrowserItemNameStd>Browser</WPFBrowserItemNameStd>
-  <MVCSystemProjectNameStd>MVC.{System}</MVCSystemProjectNameStd>
-  <ApplicationRootFolderNameStd>Applications</ApplicationRootFolderNameStd>
+  <SystemSolutionNameStd>{System}System</SystemSolutionNameStd>
   <ApplicationSolutionNameStd>{SolutionName}</ApplicationSolutionNameStd>
   <ModulesSolutionFolderNameStd>Modules</ModulesSolutionFolderNameStd>
-  <ModuleAssembliesSolutionFolderNameStd>{AssemblyName}</ModuleAssembliesSolutionFolderNameStd>
+  <ApplicationRootFolderNameStd>Applications</ApplicationRootFolderNameStd>
+  <RootWPFModuleFolderNameStd></RootWPFModuleFolderNameStd>
+  <RootSLModuleFolderNameStd></RootSLModuleFolderNameStd>
   <ApplicationSystemSolutionFolderNameStd>System</ApplicationSystemSolutionFolderNameStd>
+  <ModuleAssembliesSolutionFolderNameStd>{AssemblyName}</ModuleAssembliesSolutionFolderNameStd>
+  <BOSSolutionNameStd></BOSSolutionNameStd>
+  <ServiceHostProjectNameStd>ServiceHost.{System}</ServiceHostProjectNameStd>
+  <ServiceHostItemNameStd></ServiceHostItemNameStd>
+  <LansaServiceAgentProjectNameStd>BOS.{System}LAXServiceAgent</LansaServiceAgentProjectNameStd>
+  <LansaServiceAgentItemNameStd>{System}LSA</LansaServiceAgentItemNameStd>
+  <LansaServiceAgentHostProjectNameStd>BOS.{System}LAXServiceAgentHost</LansaServiceAgentHostProjectNameStd>
+  <SystemSharedResourcesProjectNameStd>BOS.{System}.Shared</SystemSharedResourcesProjectNameStd>
+  <ValidationAttributesItemNameStd>ValidationAttributes</ValidationAttributesItemNameStd>
   <EntityProjectNameStd>BOS.{AssemblyName}DataEntity</EntityProjectNameStd>
   <EntityItemNameStd>{AssemblyName}Entity</EntityItemNameStd>
   <ValidationItemNameStd>{AssemblyName}Validations</ValidationItemNameStd>
   <BPProjectNameStd>BOS.{AssemblyName}BusinessProcess</BPProjectNameStd>
   <BPItemNameStd>{AssemblyName}BP</BPItemNameStd>
+  <BPServiceHostNameStd></BPServiceHostNameStd>
+  <VSMItemNameStd>{AssemblyName}VSM</VSMItemNameStd>
   <DALProjectNameStd>BOS.{AssemblyName}DataAccessLayer</DALProjectNameStd>
+  <DALItemNameForLANSAStd>{AssemblyName}DALForLANSA</DALItemNameForLANSAStd>
   <DALItemNameForSQLStd>{AssemblyName}DALForSQL</DALItemNameForSQLStd>
+  <DALItemNameForWAMStd>{AssemblyName}DALForWAM</DALItemNameForWAMStd>
   <DALServiceContractInterfaceNameStd>I{AssemblyName}DALServiceContract</DALServiceContractInterfaceNameStd>
   <DALServiceContractItemNameStd>{AssemblyName}DALServiceContract</DALServiceContractItemNameStd>
   <DALSVCItemNameStd>{AssemblyName}DAL</DALSVCItemNameStd>
+  <ServiceProxyItemNameStd>{AssemblyName}ServiceProxy</ServiceProxyItemNameStd>
   <DataMapsProjectNameStd>BOS.{AssemblyName}DataMaps</DataMapsProjectNameStd>
   <DataMapsItemNameStd>{AssemblyName}Maps</DataMapsItemNameStd>
   <ViewModelProjectNameStd>BOS.{AssemblyName}ViewModel</ViewModelProjectNameStd>
   <ViewModelItemNameStd>{AssemblyName}VM</ViewModelItemNameStd>
-  <WPFModuleProjectNameStd>WPF.{AssemblyName}</WPFModuleProjectNameStd>
-  <WPFDetailItemNameStd>{AssemblyName}Detail</WPFDetailItemNameStd>
-  <WPFDropDownItemNameStd>{AssemblyName}DropDown</WPFDropDownItemNameStd>
-  <WPFExplorerBarNameStd>{AssemblyName}ExpBarSearch</WPFExplorerBarNameStd>
-  <WPFContentWindowNameStd>{AssemblyName}ExpContent</WPFContentWindowNameStd>
-  <MVCControllerItemNameStd>{AssemblyName}Controller</MVCControllerItemNameStd>
-  <MVCDetailItemNameStd>_{AssemblyName}Detail</MVCDetailItemNameStd>
-  <MVCExplorerBarNameStd>_{AssemblyName}ExpBarSearch</MVCExplorerBarNameStd>
-  <MVCDropDownItemNameStd>_{AssemblyName}Dropdown</MVCDropDownItemNameStd>
-  <BOSCombinedProjectNameStd>BOS.{System}</BOSCombinedProjectNameStd>
-  <ViewModelCombinedProjectNameStd>BOS.{System}.ViewModels</ViewModelCombinedProjectNameStd>
-  <WPFSystemViewsProjectNameStd>WPF.{System}.Views</WPFSystemViewsProjectNameStd>
-  <GenerateForReNew>false</GenerateForReNew>
-  <NL_iniSettingsFile>@renew\renewTemplate.ini</NL_iniSettingsFile>
-  <NL_LoggingAndTraceRelativePath>@renew\Logs\</NL_LoggingAndTraceRelativePath>
-  <NL_ConnectionName>DeveloperDisplay</NL_ConnectionName>
-  <NL_SignonToMainMenuTransaction>renew_SignonToMainMenu</NL_SignonToMainMenuTransaction>
-  <NL_SignofffromMainMenuTransaction>renew_SignoffFromMainMenu</NL_SignofffromMainMenuTransaction>
-  <NL_ReturnToMainMenuMacro>renew_ReturnToMainMenu.F3</NL_ReturnToMainMenuMacro>
-  <NL_MaxSessionsAllowed>8</NL_MaxSessionsAllowed>
-  <NL_NumPreConnectSessions>0</NL_NumPreConnectSessions>
-  <DefaultConfigurationXMLPath>C:\Program Files\Accelerator for .NET\Master\CodeFactory\\DefaultStandardsConfiguration.xml</DefaultConfigurationXMLPath>
-  <UpgradeScriptsLogPath></UpgradeScriptsLogPath>
-  <SystemGenerationPath></SystemGenerationPath>
-  <AcceleratorExportPath></AcceleratorExportPath>
-  <TemplateType>CSharp</TemplateType>
-  <ToolsVersion>17.0</ToolsVersion>
-  <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
-  <GenerateWebAPI>false</GenerateWebAPI>
-  <GenerateSilverlight>false</GenerateSilverlight>
-  <GenerateBPServiceProxy>true</GenerateBPServiceProxy>
-  <OpenSystemSolution>true</OpenSystemSolution>
-  <GenerateDALForLANSA>false</GenerateDALForLANSA>
-  <DefaultDALType>SQL</DefaultDALType>
-  <AcceleratorDALType>MSSql</AcceleratorDALType>
-  <GeneratedFromLANSA>false</GeneratedFromLANSA>
-  <RunDependencyTool>true</RunDependencyTool>
-  <GenerateForWAMs>false</GenerateForWAMs>
-  <ShowIDE>false</ShowIDE>
-  <UseMSSQLObjectNamesInsteadOfDescriptions>true</UseMSSQLObjectNamesInsteadOfDescriptions>
-  <RootWPFModuleFolderNameStd></RootWPFModuleFolderNameStd>
-  <RootSLModuleFolderNameStd></RootSLModuleFolderNameStd>
-  <BOSSolutionNameStd></BOSSolutionNameStd>
-  <ServiceHostItemNameStd></ServiceHostItemNameStd>
-  <LansaServiceAgentProjectNameStd>BOS.{System}LAXServiceAgent</LansaServiceAgentProjectNameStd>
-  <LansaServiceAgentItemNameStd>{System}LSA</LansaServiceAgentItemNameStd>
-  <LansaServiceAgentHostProjectNameStd>BOS.{System}LAXServiceAgentHost</LansaServiceAgentHostProjectNameStd>
-  <BPServiceHostNameStd></BPServiceHostNameStd>
-  <VSMItemNameStd>{AssemblyName}VSM</VSMItemNameStd>
-  <DALItemNameForLANSAStd>{AssemblyName}DALForLANSA</DALItemNameForLANSAStd>
-  <DALItemNameForWAMStd>{AssemblyName}DALForWAM</DALItemNameForWAMStd>
-  <ServiceProxyItemNameStd>{AssemblyName}ServiceProxy</ServiceProxyItemNameStd>
   <BPServiceContractItemNameStd>{AssemblyName}BPServiceContract</BPServiceContractItemNameStd>
   <BPServiceContractInterfaceNameStd>I{AssemblyName}BPServiceContract</BPServiceContractInterfaceNameStd>
   <BPSVCItemNameStd>{AssemblyName}BP</BPSVCItemNameStd>
   <EntityDataContractsStd>{AssemblyName}DataContracts</EntityDataContractsStd>
   <WPFSolutionNameStd></WPFSolutionNameStd>
+  <WPFSystemCoreProjectNameStd>WPF.{System}.Shared</WPFSystemCoreProjectNameStd>
+  <WPFSystemViewsProjectNameStd>WPF.{System}.Views</WPFSystemViewsProjectNameStd>
+  <WPFSystemProjectNameStd>WPF.{System}</WPFSystemProjectNameStd>
+  <WPFModuleProjectNameStd>WPF.{AssemblyName}</WPFModuleProjectNameStd>
+  <WPFSplashItemNameStd>Splash</WPFSplashItemNameStd>
+  <WPFLogonItemNameStd>Logon</WPFLogonItemNameStd>
+  <WPFBrowserItemNameStd>Browser</WPFBrowserItemNameStd>
+  <WPFDetailItemNameStd>{AssemblyName}Detail</WPFDetailItemNameStd>
+  <WPFDropDownItemNameStd>{AssemblyName}DropDown</WPFDropDownItemNameStd>
   <WPFProjectNameStd></WPFProjectNameStd>
+  <WPFExplorerBarNameStd>{AssemblyName}ExpBarSearch</WPFExplorerBarNameStd>
+  <WPFContentWindowNameStd>{AssemblyName}ExpContent</WPFContentWindowNameStd>
   <ViewModelWPFProjectNameStd>WPF.{AssemblyName}ViewModel</ViewModelWPFProjectNameStd>
+  <MVCSystemProjectNameStd>MVC.{System}</MVCSystemProjectNameStd>
+  <MVCControllerItemNameStd>{AssemblyName}Controller</MVCControllerItemNameStd>
+  <MVCDetailItemNameStd>_{AssemblyName}Detail</MVCDetailItemNameStd>
+  <MVCExplorerBarNameStd>_{AssemblyName}ExpBarSearch</MVCExplorerBarNameStd>
+  <MVCDropDownItemNameStd>_{AssemblyName}Dropdown</MVCDropDownItemNameStd>
   <WebAPISystemProjectNameStd>WebAPI.{System}</WebAPISystemProjectNameStd>
   <WebAPIControllerItemNameStd>{AssemblyName}Controller</WebAPIControllerItemNameStd>
   <SLSystemProjectNameStd>Silverlight.{System}</SLSystemProjectNameStd>
@@ -149,16 +130,35 @@
   <SLEntityProjectNameStd>Silverlight.{AssemblyName}DataEntity</SLEntityProjectNameStd>
   <ViewModelSilverlightProjectNameStd>Silverlight.{AssemblyName}ViewModel</ViewModelSilverlightProjectNameStd>
   <SLDropDownItemNameStd>{AssemblyName}DropDown</SLDropDownItemNameStd>
+  <WebServiceURI>http://localhost:</WebServiceURI>
+  <DALWebServicePortForSQL>19742</DALWebServicePortForSQL>
   <DALWebServicePortForLANSA>19741</DALWebServicePortForLANSA>
+  <DALAcceleratorWebServiceAddress>http://localhost:49606/</DALAcceleratorWebServiceAddress>
+  <BPAcceleratorWebServiceAddress>http://localhost:57592/</BPAcceleratorWebServiceAddress>
+  <BPWebServicePort>19743</BPWebServicePort>
+  <CompanyName>EasyBuy Cycles Distributors</CompanyName>
+  <CompanyImageName>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\EasyBuyDistributors48x200.png</CompanyImageName>
+  <SystemVersion>Version 1.0.0.0</SystemVersion>
+  <LogonImageName>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\EasyBuyv4Logo_256_256_32.png</LogonImageName>
+  <SplashImageName>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\easybuyv4horiz90h.png</SplashImageName>
+  <ImagesRelativePath>/images/</ImagesRelativePath>
+  <ImagesPathToCopy>C:\SurroundCore\AcceleratorSolutionDemo_EasyBuyCycles\Development Resources\images\</ImagesPathToCopy>
   <TechnologyService>SURROUND:XML_SVC</TechnologyService>
   <BPSystemConnectionType>WebServices</BPSystemConnectionType>
   <DALSystemConnectionType>Direct</DALSystemConnectionType>
   <BPA4DNConnectionType>WebServices</BPA4DNConnectionType>
   <DALA4DNConnectionType>Direct</DALA4DNConnectionType>
   <LansaLanguage>ENG</LansaLanguage>
+  <LansaPartition></LansaPartition>
   <LansaRootPath></LansaRootPath>
   <LansaConnectionType>Local</LansaConnectionType>
+  <LansaConnectionName></LansaConnectionName>
+  <LansaConnectionUserName></LansaConnectionUserName>
+  <LansaConnectionPassword></LansaConnectionPassword>
   <LansaDatabaseType>SQLANYWHERE</LansaDatabaseType>
+  <LansaDatabaseName></LansaDatabaseName>
+  <LansaDatabaseUserName></LansaDatabaseUserName>
+  <LansaDatabasePassword></LansaDatabasePassword>
   <SQLServerType></SQLServerType>
   <SQLDataSource></SQLDataSource>
   <SQLDatabase></SQLDatabase>
