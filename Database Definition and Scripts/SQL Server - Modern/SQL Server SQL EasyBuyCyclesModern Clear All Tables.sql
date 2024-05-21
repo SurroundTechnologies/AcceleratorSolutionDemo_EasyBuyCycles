@@ -3,7 +3,7 @@
 
 -- USE "EasyBuyCycles";
 -- USE "EasyBuyCyclesDev";
--- USE "EasyBuyCyclesLegacy";
+-- USE "EasyBuyCyclesModern";
 
 -- DELETE FROM [dbo].[OrderItem]
 -- DELETE FROM [dbo].[Order]
